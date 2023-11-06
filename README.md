@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SawanAD
 - 👀 I’m interested in Developing 
-- 🌱 I’m currently learning Android Developing 
+- 🌱 I’m currently learning Java and Spring boot
 - 💞️ I’m looking to collaborate on .. right now I don't have any clue:((
 - 📫 How to reach me .. at yesiamsawan@gmail.com
 
